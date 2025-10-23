@@ -1,9 +1,7 @@
 #include <iostream>
-
-
 using namespace std;
 
-// Structure to store Employee data
+
 struct Employee {
     int id;
     string name;
@@ -65,3 +63,4 @@ int main() {
 
     return 0;
 }
+
